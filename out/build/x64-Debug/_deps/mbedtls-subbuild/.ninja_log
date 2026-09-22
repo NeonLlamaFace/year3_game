@@ -1,0 +1,21 @@
+# ninja log v5
+2	83	8117206830504031	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-mkdir	49352c8914d69a81
+2	83	8117206830504031	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-mkdir	49352c8914d69a81
+84	3381	8117206863481231	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-download	ba20d4ba0a106287
+84	3381	8117206863481231	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-download	ba20d4ba0a106287
+3381	3467	8117206864348381	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-update	f568b90a6031a817
+3381	3467	8117206864348381	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-update	f568b90a6031a817
+3467	3667	8117206866350487	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-patch	764986eabd70e386
+3467	3667	8117206866350487	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-patch	764986eabd70e386
+3668	3746	8117206867130773	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-configure	a4ceb9ba0a1feb81
+3668	3746	8117206867130773	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-configure	a4ceb9ba0a1feb81
+3746	3828	8117206867945416	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-build	734c12854ac9e739
+3746	3828	8117206867945416	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-build	734c12854ac9e739
+3828	3907	8117206868750039	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-install	63426943191e1f2a
+3828	3907	8117206868750039	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-install	63426943191e1f2a
+3907	3984	8117206869504099	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-test	7508b31b30cbe355
+3907	3984	8117206869504099	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-test	7508b31b30cbe355
+3984	4097	8117206870641468	CMakeFiles/mbedtls-populate-complete	68f0b8009719a7d9
+3984	4097	8117206870641468	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-done	68f0b8009719a7d9
+3984	4097	8117206870641468	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate-complete	68f0b8009719a7d9
+3984	4097	8117206870641468	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-done	68f0b8009719a7d9

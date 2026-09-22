@@ -1,8 +1,8 @@
-# Install script for directory: H:/year3_game/lib/SFML/src/SFML/Graphics
+# Install script for directory: C:/Users/homel/source/repos/year3_game/lib/SFML/src/SFML/Graphics
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "H:/year3_game/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/homel/Source/Repos/year3_game/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,10 +33,18 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "devel" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY OPTIONAL FILES "H:/year3_game/out/build/x64-Debug/lib/SFML/lib/sfml-graphics-d.lib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/lib/SFML/lib/sfml-graphics-s-d.lib")
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "bin" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "H:/year3_game/out/build/x64-Debug/bin/sfml-graphics-d-2.dll")
+if(CMAKE_INSTALL_COMPONENT STREQUAL "devel" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/SFML" TYPE FILE FILES "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/lib/SFML/src/SFML/Graphics/SFMLGraphicsDependencies.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-build/cmake_install.cmake")
+  include("C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-build/cmake_install.cmake")
+  include("C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-build/cmake_install.cmake")
+
 endif()
 

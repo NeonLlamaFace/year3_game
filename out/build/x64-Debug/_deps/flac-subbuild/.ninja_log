@@ -1,0 +1,21 @@
+# ninja log v5
+5	184	8117207665098113	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	4d8e6f32a4437b00
+5	184	8117207665098113	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	4d8e6f32a4437b00
+186	5649	8117207719797475	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	4db0ca0960f770ce
+186	5649	8117207719797475	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	4db0ca0960f770ce
+5650	6167	0	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	fe201462947394c1
+5650	6167	0	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	fe201462947394c1
+6168	6391	8117207727207570	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	20afe46fe9436889
+6168	6391	8117207727207570	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	20afe46fe9436889
+6391	6562	8117207728931072	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f615c9f13668808a
+6391	6562	8117207728931072	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f615c9f13668808a
+6562	6734	8117207730647975	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	63bbf09a7bca7b4b
+6562	6734	8117207730647975	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	63bbf09a7bca7b4b
+6734	6878	8117207732082396	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	5536a0a88969cd81
+6734	6878	8117207732082396	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	5536a0a88969cd81
+6878	7032	8117207733622136	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a1e91a5fa476d53a
+6878	7032	8117207733622136	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a1e91a5fa476d53a
+7032	7258	8117207735853580	CMakeFiles/flac-populate-complete	d9b6e7b6bfc671c3
+7032	7258	8117207735853580	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	d9b6e7b6bfc671c3
+7032	7258	8117207735853580	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	d9b6e7b6bfc671c3
+7032	7258	8117207735853580	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	d9b6e7b6bfc671c3

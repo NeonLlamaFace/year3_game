@@ -1,0 +1,21 @@
+# ninja log v5
+3	103	8117207347656009	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-mkdir	4d2e535910cee6d
+3	103	8117207347656009	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-mkdir	4d2e535910cee6d
+104	3170	8117207378304741	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-download	f77c2df07263bf59
+104	3170	8117207378304741	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-download	f77c2df07263bf59
+3178	3445	0	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-update	dac4a47b5586573d
+3178	3445	0	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-update	dac4a47b5586573d
+3445	3599	8117207382607615	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-patch	6197efd2aca2f759
+3445	3599	8117207382607615	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-patch	6197efd2aca2f759
+3599	3689	8117207383492805	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-configure	d483f526e6086db9
+3599	3689	8117207383492805	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-configure	d483f526e6086db9
+3689	3768	8117207384310553	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-build	7f3ae7165fc5f081
+3689	3768	8117207384310553	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-build	7f3ae7165fc5f081
+3768	3855	8117207385174920	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-install	1392013338a73861
+3768	3855	8117207385174920	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-install	1392013338a73861
+3855	3928	8117207385906988	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-test	df3d10a1e3a9c7f1
+3855	3928	8117207385906988	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-test	df3d10a1e3a9c7f1
+3928	4039	8117207387007082	CMakeFiles/sheenbidi-populate-complete	53eab7a14f67243b
+3928	4039	8117207387007082	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-done	53eab7a14f67243b
+3928	4039	8117207387007082	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/CMakeFiles/sheenbidi-populate-complete	53eab7a14f67243b
+3928	4039	8117207387007082	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-done	53eab7a14f67243b

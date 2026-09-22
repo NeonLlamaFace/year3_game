@@ -1,0 +1,21 @@
+# ninja log v5
+3	96	8117207075730635	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-mkdir	586f34b19d5d50a4
+3	96	8117207075730635	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-mkdir	586f34b19d5d50a4
+96	12545	8117207200233773	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-download	709ee6e55b878900
+96	12545	8117207200233773	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-download	709ee6e55b878900
+12554	12769	0	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-update	15949db971b2a628
+12554	12769	0	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-update	15949db971b2a628
+12769	12891	8117207203693229	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-patch	34cc77eecc476904
+12769	12891	8117207203693229	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-patch	34cc77eecc476904
+12891	12971	8117207204480578	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-configure	21e3872f61185d5c
+12891	12971	8117207204480578	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-configure	21e3872f61185d5c
+12971	13047	8117207205256141	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-build	ea10f07e970f0236
+12971	13047	8117207205256141	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-build	ea10f07e970f0236
+13048	13128	8117207206057757	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-install	a967dc79bd2d45d
+13048	13128	8117207206057757	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-install	a967dc79bd2d45d
+13128	13215	8117207206936997	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-test	3a27edbe59762f01
+13128	13215	8117207206936997	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-test	3a27edbe59762f01
+13215	13337	8117207208159833	CMakeFiles/harfbuzz-populate-complete	a11a636b06fedff1
+13215	13337	8117207208159833	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-done	a11a636b06fedff1
+13215	13337	8117207208159833	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/CMakeFiles/harfbuzz-populate-complete	a11a636b06fedff1
+13215	13337	8117207208159833	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-done	a11a636b06fedff1

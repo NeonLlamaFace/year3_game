@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mbedtls-populate"
+		],
+		"name" : "mbedtls-populate"
+	}
+}

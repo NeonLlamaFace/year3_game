@@ -1,0 +1,21 @@
+# ninja log v5
+4	109	8117206928432692	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-mkdir	eaba3b3b85c1064b
+4	109	8117206928432692	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-mkdir	eaba3b3b85c1064b
+109	1167	8117206939029510	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-download	d1e9a7800870a8d0
+109	1167	8117206939029510	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-download	d1e9a7800870a8d0
+1175	1256	8117206939901004	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-update	b374730f4567c549
+1175	1256	8117206939901004	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-update	b374730f4567c549
+1256	1376	8117206941114395	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-patch	eade801e6645510a
+1256	1376	8117206941114395	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-patch	eade801e6645510a
+1377	1464	8117206941987199	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-configure	58a393253d8a4a63
+1377	1464	8117206941987199	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-configure	58a393253d8a4a63
+1464	1548	8117206942824649	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-build	ba02f3aa6d2d6916
+1464	1548	8117206942824649	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-build	ba02f3aa6d2d6916
+1548	1636	8117206943686376	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-install	e033fcd99162d53d
+1548	1636	8117206943686376	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-install	e033fcd99162d53d
+1636	1719	8117206944537924	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-test	2b043df6e08ecedf
+1636	1719	8117206944537924	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-test	2b043df6e08ecedf
+1719	1833	8117206945672753	CMakeFiles/libssh2-populate-complete	818844601192ccd8
+1719	1833	8117206945672753	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-done	818844601192ccd8
+1719	1833	8117206945672753	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate-complete	818844601192ccd8
+1719	1833	8117206945672753	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-done	818844601192ccd8

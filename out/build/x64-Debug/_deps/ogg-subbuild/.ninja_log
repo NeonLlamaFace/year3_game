@@ -1,0 +1,21 @@
+# ninja log v5
+2	101	8117207396428101	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	ff93b9eb3907fa63
+2	101	8117207396428101	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	ff93b9eb3907fa63
+101	2438	8117207419773483	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	2dfb5848fd49cc34
+101	2438	8117207419773483	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	2dfb5848fd49cc34
+2438	2680	0	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	ec82ac77d071708a
+2438	2680	0	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	ec82ac77d071708a
+2689	2810	8117207423503650	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	939c55e0db28fefd
+2689	2810	8117207423503650	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	939c55e0db28fefd
+2811	2899	8117207424400524	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	594123334c9a93a2
+2811	2899	8117207424400524	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	594123334c9a93a2
+2900	2981	8117207425227104	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	b7479c44816734fd
+2900	2981	8117207425227104	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	b7479c44816734fd
+2982	3070	8117207426106209	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	377a56612c2613bb
+2982	3070	8117207426106209	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	377a56612c2613bb
+3070	3147	8117207426886034	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	a2948afbf113ebe2
+3070	3147	8117207426886034	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	a2948afbf113ebe2
+3147	3269	8117207428091382	CMakeFiles/ogg-populate-complete	c38c37e31df232d9
+3147	3269	8117207428091382	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	c38c37e31df232d9
+3147	3269	8117207428091382	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	c38c37e31df232d9
+3147	3269	8117207428091382	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	c38c37e31df232d9

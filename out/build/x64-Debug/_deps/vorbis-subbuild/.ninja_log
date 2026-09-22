@@ -1,0 +1,21 @@
+# ninja log v5
+6	201	8117207918107028	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	52d3889a63043fae
+6	201	8117207918107028	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	52d3889a63043fae
+203	5918	8117207975307833	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	b066927ad7f35575
+203	5918	8117207975307833	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	b066927ad7f35575
+5927	6361	0	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	c4af26b2e1f4054a
+5927	6361	0	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	c4af26b2e1f4054a
+6362	6599	8117207982108253	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	eb47742f3b81d7a6
+6362	6599	8117207982108253	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	eb47742f3b81d7a6
+6599	6763	8117207983758226	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	bbc97e31f3452bf6
+6599	6763	8117207983758226	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	bbc97e31f3452bf6
+6764	6905	8117207985186898	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	2e8a63fde3db736b
+6764	6905	8117207985186898	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	2e8a63fde3db736b
+6905	7083	8117207986947236	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	f685e922587a1b6f
+6905	7083	8117207986947236	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	f685e922587a1b6f
+7083	7280	8117207988875594	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	400ca136b9bc80ca
+7083	7280	8117207988875594	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	400ca136b9bc80ca
+7280	7537	8117207991452728	CMakeFiles/vorbis-populate-complete	5e134258a22dc561
+7280	7537	8117207991452728	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	5e134258a22dc561
+7280	7537	8117207991452728	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	5e134258a22dc561
+7280	7537	8117207991452728	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	5e134258a22dc561

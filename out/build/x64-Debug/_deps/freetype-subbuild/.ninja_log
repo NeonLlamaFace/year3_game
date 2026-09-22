@@ -1,0 +1,21 @@
+# ninja log v5
+3	103	8117206953119542	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	d4358bacd6a6fd38
+3	103	8117206953119542	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	d4358bacd6a6fd38
+103	10723	8117207059292029	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	4f78f3592dd0ed9
+103	10723	8117207059292029	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	4f78f3592dd0ed9
+10723	10954	0	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	470fb7f258977790
+10723	10954	0	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	470fb7f258977790
+10954	11076	8117207062851738	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	e853d5768d5885fc
+10954	11076	8117207062851738	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	e853d5768d5885fc
+11076	11166	8117207063759735	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	17da59c07ea5e582
+11076	11166	8117207063759735	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	17da59c07ea5e582
+11166	11255	8117207064631712	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4e932b0029ba07e3
+11166	11255	8117207064631712	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4e932b0029ba07e3
+11255	11342	8117207065514941	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	b1c2e9e545f717b5
+11255	11342	8117207065514941	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	b1c2e9e545f717b5
+11343	11420	8117207066288328	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	6ad779ddbc9f2658
+11343	11420	8117207066288328	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	6ad779ddbc9f2658
+11420	11547	8117207067554891	CMakeFiles/freetype-populate-complete	3753d6df84bb31cd
+11420	11547	8117207067554891	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	3753d6df84bb31cd
+11420	11547	8117207067554891	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	3753d6df84bb31cd
+11420	11547	8117207067554891	C:/Users/homel/source/repos/year3_game/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	3753d6df84bb31cd
