@@ -1,3 +1,4 @@
+set(CMAKE_TLS_VERIFY OFF)
 project(setup)
 cmake_minimum_required(VERSION 3.11)
 # Require modern C++
@@ -16,6 +17,6 @@ set(SFML_INCS "lib/SFML/include")
 link_directories("${CMAKE_BINARY_DIR}/lib/SFML/lib")
 
 #### Practical 1 ####
-add_executable(lab_1 main.cpp)
+add_executable(lab_1 main.cpp "scenes.cpp")
 target_include_directories(lab_1 PRIVATE ${SFML_INCS})
 target_link_libraries(lab_1 sfml-graphics)
